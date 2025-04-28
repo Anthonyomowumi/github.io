@@ -37,7 +37,7 @@ Here are some of the projects I have worked on:
 
 ---
 
-### 🔍 Data Exploration in SQL()
+### 🔍 [Data Exploration in SQL]()
 - Queried and explored raw datasets using SQL to uncover trends, clean inconsistencies, and prepare data for analysis and visualization.
 
 ---
