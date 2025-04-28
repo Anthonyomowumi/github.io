@@ -16,6 +16,7 @@ Here are some of the projects I have worked on:
 - Built an interactive Amazon sales dashboard using Pivot Tables in Excel.
 - Summarized and analyzed key metrics including Total Sales by Location, Quantity Sold by Category, Order Status Counts, Payment Methods, and Customer Details.
 - Provided meaningful insights to improve customer targeting, payment optimization, and sales performance tracking.
+
   
 ---
 
@@ -27,4 +28,12 @@ Here are some of the projects I have worked on:
 
 ---
 
+### 📈 [HR Analytics Dashboard Using PowerBI]()
+- Designed an interactive HR dashboard in Power BI to visualize workforce insights.
+- Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
+- Integrated SQL data sources to track KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
+- Delivered strategic insights to support HR planning, talent retention, and diversity management.
+
+
+---
 
