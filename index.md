@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-
-# Projects
+# Omowumi Anthony Projects Portfolio
 
 Here are some of the projects I have worked on:
 
 ---
 
-### 🎯 [Sales Dashboard Analysis](https://github.com/your-username/sales-dashboard)
+### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/CHOCOLATE.png)
 - Built an interactive sales dashboard using Power BI.
 - Extracted and analyzed data from SQL databases.
 - Delivered actionable business insights to improve decision-making.
