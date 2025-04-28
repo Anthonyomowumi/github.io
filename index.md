@@ -14,14 +14,14 @@ Here are some of the projects I have worked on:
 
 ---
 
-### 📊 [Customer Churn Prediction](https://github.com/your-username/customer-churn)
+### 📊 [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/AMAZON.png)
 - Developed a machine learning model to predict customer churn.
 - Used Python, Pandas, Scikit-learn, and XGBoost.
 - Achieved 87% model accuracy on test data.
 
 ---
 
-### 📈 [COVID-19 Data Analysis](https://github.com/your-username/covid19-data)
+### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report/blob/main/Pizza%20Sales.sql)
 - Analyzed COVID-19 case trends globally using Python and Pandas.
 - Built visualizations with Matplotlib and Seaborn.
 - Provided reports on infection trends across countries.
