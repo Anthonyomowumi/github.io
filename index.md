@@ -21,7 +21,7 @@ Here are some of the projects I have worked on:
 
 ---
 
-### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report/blob/main/Pizza%20Sales.sql)
+### 📈 [Pizza Sales Report Using SQL](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
 - Analyzed COVID-19 case trends globally using Python and Pandas.
 - Built visualizations with Matplotlib and Seaborn.
 - Provided reports on infection trends across countries.
