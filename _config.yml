@@ -1,17 +1,7 @@
----
-layout: default
 title: Omowumi Anthony
----
-#logo: download.jpeg
-description:I am an Experienced Data Analyst skilled in extracting meaningful insights to solve real-world problems in business and society. I work with SQL, SSIS, Python, R, Power BI, and Advanced Excel with VBA to analyze large datasets, build dashboards, and automate data processes. My focus is on using data-driven solutions to drive impact and meaningful change.
-#show_downloads: true
-#google_analytics: # (Optional) Add your GA tracking ID here if you have one
+description: Experienced Data Analyst Portfolio
+logo: download.jpeg
 theme: jekyll-theme-cayman
+show_downloads: false
 
-# (Optional) Add social media links
-#github:
- # owner_url: https://github.com/your-username
- # repository_url: https://github.com/your-username/your-repo-name
-
-# (Optional) Set a logo if you want
 
