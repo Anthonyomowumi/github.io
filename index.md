@@ -18,7 +18,7 @@ Here are some of the projects I have worked on:
 - Provided meaningful insights to improve customer targeting, payment optimization, and sales performance tracking.
 ---
 
-### 📈 [Pizza Sales Report Using SQL](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
+### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
 - Built an interactive sales dashboard using Power BI.
 - Extracted and analyzed data from SQL databases.
 - Delivered actionable business insights to improve decision-making.
