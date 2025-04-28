@@ -16,6 +16,7 @@ Here are some of the projects I have worked on:
 - Built an interactive Amazon sales dashboard using Pivot Tables in Excel.
 - Summarized and analyzed key metrics including Total Sales by Location, Quantity Sold by Category, Order Status Counts, Payment Methods, and Customer Details.
 - Provided meaningful insights to improve customer targeting, payment optimization, and sales performance tracking.
+  
 ---
 
 ### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
