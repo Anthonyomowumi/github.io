@@ -1,10 +1,6 @@
 ---
 layout: default
-title: Omowumi Anthony
 ---
 
-I am an Experienced Data Analyst skilled in extracting meaningful insights to solve real-world problems in business and society. 
+<!-- Optional: you can leave this empty, Cayman will automatically pull from _config.yml -->
 
-I work with SQL, SSIS, Python, R, Power BI, and Advanced Excel with VBA to analyze large datasets, build dashboards, and automate data processes.
-
-My focus is on using data-driven solutions to drive impact and meaningful change.
