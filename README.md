@@ -1,6 +1,8 @@
 # PROJECTS
 
-# [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
+## Project I
+
+## [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
 **Tools Used:**  
 Excel, Pivot Table, Pivot Charts, Data Cleaning techniques like Removing Duplicates, Find & Replace, Slicer and Timeline.
@@ -49,4 +51,12 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 ### Dashboard Overview:
 ![CHOCOLATE](CHOCOLATE.png)
+
+
+
+## PROJECT II
+
+## [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Amazon%20Sales%20Dashboard.xlsx)
+
+
 
