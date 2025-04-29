@@ -1,12 +1,12 @@
 ---
 layout: default
+title: OMOWUMI ANTHONY PORTFOLIO
 ---
 
-# Projects
-
-Here are some of the projects I have worked on:
+## PROJECTS
 
 ---
+
 
 ### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
