@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# OMOWUMI ANTHONY PORTFOLIO
+
 
 
 ## PROJECTS:
@@ -11,7 +11,7 @@ layout: default
 **Tools Used:**  
 Excel, Pivot Table, Pivot Charts, Data Cleaning techniques like Removing Duplicates, Find & Replace, Slicer and Timeline.
 
-### Project Description:
+#### Project Description:
 This project focused on analyzing product and sales data for a chocolate company to uncover trends and performance patterns for the year 2022. 
 It was designed to deliver a clear, data-driven overview of key performance indicators, including the effectiveness of sales representatives. 
 The interactive dashboard enables stakeholders to seamlessly track and evaluate the company’s performance across various regions, product categories, 
@@ -37,7 +37,7 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 **•	Product:** Dive deeper into the performance of specific chocolate products.
 
-### Key Findings:
+#### Key Findings:
 **Regional Profitability:** Identified the most profitable regions for chocolate box shipments and highlighted areas where performance can be improved.
 
 **Top-Performing Products:** Highlighted the chocolate products that are generating the most revenue and profit, assisting in inventory and marketing decisions.
@@ -53,7 +53,7 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 **This dashboard is a key decision-making tool for the chocolate company’s leadership, offering clear, data-driven insights to support growth, improve operations, and strengthen market positioning.**
 
 
-### Dashboard Overview:
+#### Dashboard Overview:
 ![CHOCOLATE](CHOCOLATE.png)
 
 
