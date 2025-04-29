@@ -2,10 +2,10 @@
 layout: default
 ---
 
-Here are some of the projects I have worked on:
+# PROJECTS:
 
 
-### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
+## 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
 **Tools Used:**  
 Excel, Pivot Table, Pivot Charts, Data Cleaning techniques like Removing Duplicates, Find & Replace, Slicer and Timeline.
@@ -57,18 +57,8 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 
 
-
-
 ---
 
-
-### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io)
-- Developed an interactive Excel dashboard using Pivot Tables to analyze chocolate sales performance.
-- Tracked key KPIs including Total Sales by Country, Total Sales by Product, Top 10 Product Sales, Sales Trend by Month, 
-  Count of Boxes Shipped by Month and to Partnering Countries, and Top 10 Salesperson Performance.
-- Uncovered actionable insights to support strategic decision-making, optimize sales efforts, and improve individual Sales agent performance.
-
----
 
 ### 📊 [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/AMAZON.png)
 - Built an interactive Amazon sales dashboard using Pivot Tables in Excel.
