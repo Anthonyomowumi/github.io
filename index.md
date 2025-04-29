@@ -63,10 +63,53 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 ---
 
 
-### 📊 [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/AMAZON.png)
-- Built an interactive Amazon sales dashboard using Pivot Tables in Excel.
-- Summarized and analyzed key metrics including Total Sales by Location, Quantity Sold by Category, Order Status Counts, Payment Methods, and Customer Details.
-- Provided meaningful insights to improve customer targeting, payment optimization, and sales performance tracking.
+### 📊 [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Amazon%20Sales%20Dashboard.xlsx)
+
+**Tools Used:**  
+Pivot Table, Pivot Charts, Conditional Formatting, Formulas like SUM, COUNT and IF, Sorting and Filtering, Slicer and Timeline.
+
+### Project Description:
+This project involved creating an interactive Amazon sales dashboard using Pivot Tables in Excel to analyze data. The dashboard provided a detailed view of key metrics, 
+such as Total Sales by Location, Total Sales by Product, Quantity Sold by Category, Order Status Distribution, Payment Methods, and Customer Insights. 
+The dashboard allows stakeholders to monitor and assess sales performance across various regions and product categories, thereby improving customer targeting, 
+optimizing payment methods, and enhancing overall sales tracking.The dashboard includes the following features:
+
+**•	Total Sales by Customer’s Location:** Highlights the total sales generated in each customer region, helping to identify key markets and tailor targeted strategies for customer engagement and regional growth.
+
+**•	Total Sales by Product:** Shows the overall sales performance for each product, enabling the identification of top-performing items and areas for potential inventory or marketing optimization.
+
+**•	Quantity Sold by Category:** highlights the total quantity sold across different product categories, providing insights into customer preferences and helping to guide inventory and marketing decisions.
+
+**•	Order Status Distribution:** Displays the distribution of orders based on their status (e.g., Pending, Completed, or Cancelled), offering insights into the order fulfillment process
+and helping to identify areas for improvement in processing and customer satisfaction.
+
+**•	Payment Methods:** Analyzes the distribution of orders by payment method, including Amazon Pay, Gift Card, Credit Card, Debit Card, and PayPal. This provides insights into 
+customer payment preferences and can provide strategies for optimizing payment options and improving the checkout experience.
+
+The dashboard includes interactive slicers and a timeline:
+
+**•	Month:** Filter data by month or date range for detailed sales trend analysis.
+
+**•	Category:** Assess performance across product categories like Books, Electronics, Clothing, Footwear, and Home Appliances.
+
+**•	Product:** Analyze the performance of individual products within each category for granular insights.
+
+### Some Key Findings:
+
+**•	Electronics Lead in Sales Volume:** Analysis of Quantity Sold by Category showed that Electronics consistently had the highest sales volume, making it the top-performing category during the period.
+
+**•	Top Payment Methods Identified:** Between February and April, PayPal and Credit Card were the most frequently used payment methods, while Gift Card and Amazon Pay were the least 
+used—highlighting customer preferences that can inform payment strategy.
+
+
+**•	Regional Sales Insight – Miami:** Miami recorded the highest total sales, particularly within the Electronics category, indicating strong regional demand for tech products.
+
+**•	Order Status Monitoring Needed:** Although completed orders (88) were the highest, the number of Pending (85) and cancelled (77) orders was also significant. This suggests 
+a need for closer monitoring of the fulfillment process. The high cancellation rate may point to potential issues with payment methods or order processing delays that warrant further investigation.
+
+### Dashboard Overview:
+![AMAZON](AMAZON.png)
+
 
   
 ---
