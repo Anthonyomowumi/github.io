@@ -58,5 +58,12 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 ## [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Amazon%20Sales%20Dashboard.xlsx)
 
+**Tools Used:**  
+Pivot Table, Pivot Charts, Conditional Formatting, , Slicer and Timeline.
 
+### Project Description:
+This project involved creating an interactive Amazon sales dashboard using Pivot Tables in Excel to analyze data. The dashboard provided a detailed view of key metrics, 
+such as Total Sales by Location, Total Sales by Product, Quantity Sold by Category, Order Status Distribution, Payment Methods, and Customer Insights. 
+The dashboard allows stakeholders to monitor and assess sales performance across various regions and product categories, thereby improving customer targeting, 
+optimizing payment methods, and enhancing overall sales tracking.The dashboard includes the following features:
 
