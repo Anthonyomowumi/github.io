@@ -5,7 +5,7 @@ layout: default
 Here are some of the projects I have worked on:
 
 
-### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/CHOCOLATE.png)
+### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io)
 - Developed an interactive Excel dashboard using Pivot Tables to analyze chocolate sales performance.
 - Tracked key KPIs including Total Sales by Country, Total Sales by Product, Top 10 Product Sales, Sales Trend by Month, 
   Count of Boxes Shipped by Month and to Partnering Countries, and Top 10 Salesperson Performance.
