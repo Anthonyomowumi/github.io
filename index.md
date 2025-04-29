@@ -5,6 +5,8 @@ layout: default
 
 # OMOWUMI ANTHONY PORTFOLIO
 
+## PROJECTS
+
 ### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
 **Tools Used:**  
