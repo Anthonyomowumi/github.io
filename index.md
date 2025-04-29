@@ -4,10 +4,8 @@ layout: default
 
 Here are some of the projects I have worked on:
 
-### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io)
-# Project I
 
-# [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
+### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
 **Tools Used:**  
 Excel, Pivot Table, Pivot Charts, Data Cleaning techniques like Removing Duplicates, Find & Replace, Slicer and Timeline.
