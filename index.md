@@ -116,9 +116,10 @@ a need for closer monitoring of the fulfillment process. The high cancellation r
 
 ### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
 **Tools Used:** 
+
 PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
 
-SQL Data Manipulation Language
+SQL DML
 
 **SQL Code:**
 [Pizza Sales SQL Code](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
@@ -136,7 +137,7 @@ SQL Data Manipulation Language
 •	SQL in CAST for data type conversion
 •	DATENAME in SQL for extracting a date part as a string.
 •	Top N in SQL
-•	
+
 
 ### Project Description:
 This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, we calculated core KPIs 
@@ -146,7 +147,7 @@ and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholder
 
 
 
-Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.
+**Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.**
 
 
 
