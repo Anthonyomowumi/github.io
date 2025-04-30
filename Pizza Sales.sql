@@ -68,12 +68,6 @@ WHERE MONTH(order_date) = 1 -- Filter for January...
 GROUP BY pizza_category; --Always add the WHERE filter in the subquery as well in order to execute properly..
 
 SELECT pizza_category, SUM(total_price) AS [Total Sales], (SUM(total_price) / 
-(select SUM(total_price) from pizza_sales) * 100) AS [PERCENT OF SALES] 
-FROM pizza_sales
-WHERE DATEPART(QUARTER, order_date) = 1 -- Filter for the first quarter of the year...Which is incorrect because it needs to be put in the subselect query to work perfectly well.
-GROUP BY pizza_category;
-
-SELECT pizza_category, SUM(total_price) AS [Total Sales], (SUM(total_price) / 
 (select SUM(total_price) from pizza_sales WHERE DATEPART(QUARTER, order_date) = 1) * 100) AS [PERCENT OF SALES] 
 FROM pizza_sales
 WHERE DATEPART(QUARTER, order_date) = 1 -- Filter for the first quarter of the year...
@@ -101,6 +95,7 @@ SELECT TOP 5 pizza_name, SUM(total_price) As [Revenue]
 FROM pizza_sales
 Group By pizza_name
 Order By [Revenue] DESC; -- Top 5 Pizza by Revenue
+
 -- Bottom 5 Pizza by Revenue
 SELECT TOP 5 pizza_name, SUM(total_price) As [Revenue]
 FROM pizza_sales
