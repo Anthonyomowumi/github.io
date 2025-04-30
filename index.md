@@ -114,11 +114,44 @@ a need for closer monitoring of the fulfillment process. The high cancellation r
   
 ---
 
-### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
-- Extracted and analyzed data from SQL databases.
-- Built an interactive sales dashboard using Power BI.
-- Delivered actionable business insights to improve decision-making.
+### 📈 Pizza Sales Report Using SQL and PowerBI
+**Tools Used:** 
+PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
 
+SQL Data Manipulation Language
+
+**SQL Code:**
+[Pizza Sales SQL Code](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
+
+**PowerBI Dashboard:** 
+[Pizza Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales%20Dashboard.pbix)
+
+
+**SQL Skills Used:** 
+•	Data Retrieval like SELECT Statement, 
+•	Data Filtering WHERE Caluse  
+•	Data Aggregation like SUM, COUNT, COUNT(DISTINCT),
+•	Data Grouping like Group by statement used with the aggregated functions to summarize data
+•	Data Source Specification like FROM: Specified the tables used as data sources for retrieval
+•	SQL in CAST for data type conversion
+•	DATENAME in SQL for extracting a date part as a string.
+•	Top N in SQL
+•	
+
+### Project Description:
+This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, we calculated core KPIs 
+including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. We then visualized trends in Power BI, such as 
+daily and monthly order volumes, sales distribution by pizza category and size, and performance of individual pizza types—highlighting the top 5 best-sellers
+and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholders to monitor performance and support data-driven decision-making.
+
+
+
+Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.
+
+
+
+### PowerBI Dashboard Overview:
+![PizzaDashBoard1](PizzaDashBoard1.png)
 
 ---
 
