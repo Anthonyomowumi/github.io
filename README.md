@@ -111,9 +111,10 @@ a need for closer monitoring of the fulfillment process. The high cancellation r
 ## [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
 
 **Tools Used:** 
+
 PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
 
-SQL Data Manipulation Language
+SQL DML
 
 **SQL Code:**
 [Pizza Sales SQL Code](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
