@@ -150,3 +150,28 @@ Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dash
 ![PizzaDashBoard1](PizzaDashBoard1.png)
 
 
+## PROJECT IV
+
+## [Employee Insights Dashboard: Unlocking Workforce Trends with Power BI](https://github.com/Anthonyomowumi/github.io/blob/main/HR%20ANALYTICS%20DASHBOARD.pbix)
+
+**Tools Used:** 
+
+PowerBI - Visual Cards, 
+
+
+
+
+
+
+
+### PowerBI Dashboard Overview:
+![HRAnalyticsDashboard](HRAnalyticsDashboard.png)
+
+
+
+
+
+
+
+
+
