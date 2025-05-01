@@ -159,6 +159,11 @@ Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dash
 PowerBI - Visual Cards, 
 
 
+## Project Summary/Description
+ • Designed an interactive HR dashboard in Power BI to visualize workforce insights.
+• Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
+• Integrated DAX FUNCTIONS CALCULATE KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
+• Delivered strategic insights to support HR planning, talent retention, and diversity management.
 
 
 
