@@ -156,11 +156,17 @@ and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholder
 
 ---
 
-### 📈 [HR Analytics Dashboard Using PowerBI]()
+### 📈 [Employee Insights Dashboard: Unlocking Workforce Trends with Power BI](https://github.com/Anthonyomowumi/github.io/blob/main/HR%20ANALYTICS%20DASHBOARD.pbix)
+
+
 - Designed an interactive HR dashboard in Power BI to visualize workforce insights.
 - Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
-- Integrated SQL data sources to track KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
+- Integrated DAX FUNCTIONS CALCULATE KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
 - Delivered strategic insights to support HR planning, talent retention, and diversity management.
+
+
+### PowerBI Dashboard Overview:
+![HRAnalyticsDashboard](HRAnalyticsDashboard.png)
 
 
 ---
