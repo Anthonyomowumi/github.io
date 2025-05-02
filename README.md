@@ -1,6 +1,74 @@
 # PROJECTS
 
-## Project I
+## PROJECT I
+
+## [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
+
+**Tools Used:** 
+
+PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
+
+SQL DML
+
+**SQL Code:**
+[Pizza Sales SQL Code](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
+
+**PowerBI Dashboard:** 
+[Pizza Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales%20Dashboard.pbix)
+
+
+**SQL Skills Used:** 
+•	Data Retrieval like SELECT Statement, 
+•	Data Filtering WHERE Caluse  
+•	Data Aggregation like SUM, COUNT, COUNT(DISTINCT),
+•	Data Grouping like Group by statement used with the aggregated functions to summarize data
+•	Data Source Specification like FROM: Specified the tables used as data sources for retrieval
+•	SQL in CAST for data type conversion
+•	DATENAME in SQL for extracting a date part as a string.
+•	Top N in SQL
+
+
+### Project Description:
+This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, we calculated core KPIs 
+including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. We then visualized trends in Power BI, such as 
+daily and monthly order volumes, sales distribution by pizza category and size, and performance of individual pizza types—highlighting the top 5 best-sellers
+and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholders to monitor performance and support data-driven decision-making.
+
+
+
+Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.
+
+
+
+### PowerBI Dashboard Overview:
+![PizzaDashBoard1](PizzaDashBoard1.png)
+
+
+## PROJECT II
+
+## [Employee Insights Dashboard: Unlocking Workforce Trends with Power BI](https://github.com/Anthonyomowumi/github.io/blob/main/HR%20ANALYTICS%20DASHBOARD.pbix)
+
+**Tools Used:** 
+
+PowerBI - Visual Cards, 
+
+
+## Project Summary/Description
+ • Designed an interactive HR dashboard in Power BI to visualize workforce insights.
+• Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
+• Integrated DAX FUNCTIONS CALCULATE KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
+• Delivered strategic insights to support HR planning, talent retention, and diversity management.
+
+
+
+
+
+### PowerBI Dashboard Overview:
+![HRAnalyticsDashboard](HRAnalyticsDashboard.png)
+
+
+
+## Project III
 
 ## [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
@@ -54,7 +122,7 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 
 
-## PROJECT II
+## PROJECT IV
 
 ## [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Amazon%20Sales%20Dashboard.xlsx)
 
@@ -104,79 +172,5 @@ a need for closer monitoring of the fulfillment process. The high cancellation r
 
 ### Dashboard Overview:
 ![AMAZON](AMAZON.png)
-
-
-## PROJECT III
-
-## [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
-
-**Tools Used:** 
-
-PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
-
-SQL DML
-
-**SQL Code:**
-[Pizza Sales SQL Code](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
-
-**PowerBI Dashboard:** 
-[Pizza Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales%20Dashboard.pbix)
-
-
-**SQL Skills Used:** 
-•	Data Retrieval like SELECT Statement, 
-•	Data Filtering WHERE Caluse  
-•	Data Aggregation like SUM, COUNT, COUNT(DISTINCT),
-•	Data Grouping like Group by statement used with the aggregated functions to summarize data
-•	Data Source Specification like FROM: Specified the tables used as data sources for retrieval
-•	SQL in CAST for data type conversion
-•	DATENAME in SQL for extracting a date part as a string.
-•	Top N in SQL
-
-
-### Project Description:
-This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, we calculated core KPIs 
-including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. We then visualized trends in Power BI, such as 
-daily and monthly order volumes, sales distribution by pizza category and size, and performance of individual pizza types—highlighting the top 5 best-sellers
-and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholders to monitor performance and support data-driven decision-making.
-
-
-
-Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.
-
-
-
-### PowerBI Dashboard Overview:
-![PizzaDashBoard1](PizzaDashBoard1.png)
-
-
-## PROJECT IV
-
-## [Employee Insights Dashboard: Unlocking Workforce Trends with Power BI](https://github.com/Anthonyomowumi/github.io/blob/main/HR%20ANALYTICS%20DASHBOARD.pbix)
-
-**Tools Used:** 
-
-PowerBI - Visual Cards, 
-
-
-## Project Summary/Description
- • Designed an interactive HR dashboard in Power BI to visualize workforce insights.
-• Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
-• Integrated DAX FUNCTIONS CALCULATE KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
-• Delivered strategic insights to support HR planning, talent retention, and diversity management.
-
-
-
-
-
-### PowerBI Dashboard Overview:
-![HRAnalyticsDashboard](HRAnalyticsDashboard.png)
-
-
-
-
-
-
-
 
 
