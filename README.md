@@ -8,7 +8,7 @@
 
 PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
 
-SQL DML
+SQL Data Manipulation Language
 
 **SQL Code:**
 [Pizza Sales SQL Code](https://github.com/Anthonyomowumi/github.io/blob/main/Pizza%20Sales.sql)
