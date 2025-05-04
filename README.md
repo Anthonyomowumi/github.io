@@ -35,8 +35,11 @@ and bottom 5 by revenue, quantity, and orders.
 
 ### Some Key Insights
 **•	Optimize Inventory Management:** Focus on high-demand pizzas and reduce stock of underperforming items to minimize waste.
+
 **•	Improve Sales Strategy:** Use order volume trends to plan marketing and staffing during peak and off-peak periods.
+
 **•	Refine Product Offerings:** Analyze category and size performance to prioritize best-selling combinations.
+
 **•	Maximize Revenue and Profitability:** Leverage KPIs like average order value to implement upselling or combo strategies that increase sales.
 
 
