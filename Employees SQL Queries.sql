@@ -28,7 +28,7 @@ ALTER TABLE [dbo].[Employee_Details$]
 ALTER COLUMN City VARCHAR(255)
 
 
---1.Write an SQL query to fetch the EmpId and FullName of all the employees working under the Manager with id ñ ë986í.
+--1.Write an SQL query to fetch the EmpId and FullName of all the employees working under the Manager with id ‚Äì ‚Äò986‚Äô.
 SELECT EmpId, FullName 
 FROM [dbo].[Employee_Details$]
 WHERE ManagerId = 986;
@@ -38,7 +38,7 @@ SELECT DISTINCT(Project)
 FROM [dbo].[Employee_Salary$];
 
 
---3. Write an SQL query to fetch the count of employees working in project ëP1í.
+--3. Write an SQL query to fetch the count of employees working in project ‚ÄòP1‚Äô.
 SELECT COUNT(EmpId) 
 FROM [dbo].[Employee_Salary$]
 WHERE Project = 'P1';
@@ -58,7 +58,7 @@ SELECT EmpId
 FROM [dbo].[Employee_Salary$]
 WHERE Salary BETWEEN 9000 AND 15000;
 
---6. Write an SQL query to fetch those employees who live in Toronto and work under the manager with ManagerId ñ 321.
+--6. Write an SQL query to fetch those employees who live in Toronto and work under the manager with ManagerId ‚Äì 321.
 SELECT EmpId, 
 FullName, 
 ManagerId, 
@@ -66,7 +66,7 @@ City
 FROM [dbo].[Employee_Details$]
 WHERE ManagerId= 321 AND City ='Toronto';
 
---7. Write an SQL query to†fetch all the employees who either live in California or work under a manager with ManagerId ñ 321.
+--7. Write an SQL query to¬†fetch all the employees who either live in California or work under a manager with ManagerId ‚Äì 321.
 SELECT EmpId, 
 		FullName, 
 		ManagerId, 
@@ -85,14 +85,14 @@ SELECT *,
 FROM [dbo].[Employee_Salary$];
 
 /*10. Write an SQL query to fetch the employees whose name begins with any two characters, 
-followed by a text ìhnî and ends with any sequence of characters.*/
+followed by a text ‚Äúhn‚Äù and ends with any sequence of characters.*/
 --this wildcard, % representsplenty character while '_' underscore represents single character.
 SELECT * 
 FROM [dbo].[Employee_Details$]
 WHERE FullName LIKE '__hn%';
 
 /*11. Write an SQL query to fetch all the EmpIds which are present 'in either' of the tables
-ñ ëEmployeeDetailsí and ëEmployeeSalaryí.*/ --EITHER IN MEANS FULL OUTER JOIN
+‚Äì ‚ÄòEmployeeDetails‚Äô and ‚ÄòEmployeeSalary‚Äô.*/ --EITHER IN MEANS FULL OUTER JOIN
 
 SELECT D.EmpId,
 S.EmpId FROM 
@@ -112,7 +112,7 @@ ON D.EmpId = S.EmpId;*/
 SELECT UPPER(EmpFname) AS EmpName 
 FROM [dbo].['Employee Info$'];
 
---13. Write a query to fetch the number of employees working in the department ëHRí.
+--13. Write a query to fetch the number of employees working in the department ‚ÄòHR‚Äô.
 SELECT COUNT(Department) AS [EmployeesInHR] 
 FROM [dbo].['Employee Info$']
 WHERE Department = 'HR';
@@ -120,7 +120,7 @@ WHERE Department = 'HR';
 --14. Write a query to get the current date.
 SELECT GETDATE()
 
---15. Write a query to retrieve the first four characters of† EmpLname from the EmployeeInfo table.
+--15. Write a query to retrieve the first four characters of¬† EmpLname from the EmployeeInfo table.
 SELECT LEFT(EmpLname, 4) AS FirstFourEmpLnameChars
 FROM [dbo].['Employee Info$'];
 
@@ -163,7 +163,7 @@ ON I.EmpID = P.EmpID
 WHERE Salary BETWEEN 50000 AND 100000;
 
 
---19. Write a query to find the names of employees that begin with ëSí
+--19. Write a query to find the names of employees that begin with ‚ÄòS‚Äô
 SELECT * 
 FROM [dbo].['Employee Info$'] 
 WHERE EmpFname Like 'S%';
@@ -175,7 +175,7 @@ FROM [dbo].['Employee Info$'];
 SELECT TOP 3 * 
 FROM [dbo].['Employee position$'];
 
---21. Write a query to retrieve the EmpFname and EmpLname in a single column as ìFullNameî. The first name and the last name must be separated with space.
+--21. Write a query to retrieve the EmpFname and EmpLname in a single column as ‚ÄúFullName‚Äù. The first name and the last name must be separated with space.
 SELECT EmpID, 
 		CONCAT(EmpFname, ' ', EmpLname) AS FullName, 
 		Department, 
@@ -201,22 +201,22 @@ SELECT *
 		ORDER BY EmpLname DESC, 
 		Department;
 
---24. Write a query to fetch details of employees whose EmpLname ends with an alphabet ëAí and contains five alphabets.
+--24. Write a query to fetch details of employees whose EmpLname ends with an alphabet ‚ÄòA‚Äô and contains five alphabets.
 SELECT *
 		FROM [dbo].['Employee Info$']
 		WHERE EmpLname Like '____A';
 
---25. Write a query to fetch details of all employees excluding the employees with first names, ìSanjayî and ìSoniaî from the EmployeeInfo table.
+--25. Write a query to fetch details of all employees excluding the employees with first names, ‚ÄúSanjay‚Äù and ‚ÄúSonia‚Äù from the EmployeeInfo table.
 SELECT * 
 		FROM [dbo].['Employee Info$']
 		WHERE EmpFname NOT IN ('Sanjay','Sonia');
 
---Write a query to fetch details of all employees including the employees with first names, ìSanjayî and ìSoniaî from the EmployeeInfo table.
+--Write a query to fetch details of all employees including the employees with first names, ‚ÄúSanjay‚Äù and ‚ÄúSonia‚Äù from the EmployeeInfo table.
 SELECT * 
 		FROM [dbo].['Employee Info$']
 		WHERE EmpFname IN ('Sanjay','Sonia');
 
---26. Write a query to fetch details of employees with the address as ìDELHI(DEL)î
+--26. Write a query to fetch details of employees with the address as ‚ÄúDELHI(DEL)‚Äù
 SELECT * 
 		FROM [dbo].['Employee Info$']
 		WHERE Address = 'Delhi(DEL)';
@@ -236,7 +236,7 @@ ON I.EmpID = P.EmpID
 WHERE EmpPosition = 'Manager';*/
 
 
---28. Write a query to fetch the department-wise count of employees sorted by departmentís count in ascending order
+--28. Write a query to fetch the department-wise count of employees sorted by department‚Äôs count in ascending order
 SELECT COUNT(EmpID) AS CountOfEmployee, 
 		Department 
 		FROM [dbo].['Employee Info$']
