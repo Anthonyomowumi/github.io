@@ -130,6 +130,13 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 ## 🔍 [Data Exploration in SQL]()
 Queried and explored raw datasets using SQL to uncover trends, clean inconsistencies, and prepare data for analysis and visualization.
 
+**SQL Code:**
+[Employees Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Employees%20SQL%20Queries.sql)
+
+[Football Players Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Fottball%20Data%20SQL%20Queries.sql)
+
+
+[Workplace Safety Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/WorkSafety%20Data%20SQL%20Queries.sql)
 
 
 ## PROJECT V
