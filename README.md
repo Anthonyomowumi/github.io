@@ -56,14 +56,11 @@ Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dash
 PowerBI - DAX functions like SUM, SUMX, COUNTX, FILTER, CARDS, CHARTS
 
 
-## Project Summary/Description
+## Project Description
 This project entailed developing an interactive HR dashboard in Power BI to reveal essential workforce insights. It examined employee distribution across gender, years of service,
 job levels, eligibility for promotions, and distance from the office. With the help of DAX functions, fundamental HR KPIs—like total headcount, active employees, retrenchment risk, 
 and promotion readiness—were calculated to assess organizational health. The insights facilitated data-informed decision-making in workforce planning, talent retention, succession planning,
 and diversity initiatives. The dashboard enables stakeholders to track trends and make educated HR decisions that align with organizational objectives.
-
-
-
 
 
 
