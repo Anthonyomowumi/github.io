@@ -127,8 +127,8 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 ## Project IV
 
-## 🔍 [Data Exploration in SQL]()
-Queried and explored raw datasets using SQL to uncover trends, clean inconsistencies, and prepare data for analysis and visualization.
+## 🔍 [Data Exploration and Analysis in SQL Using Different Dataset]
+**In this project, I queried and explored Employees datasets, Football players datasets, Workplace Safety dataset and also Customer/Sales/Orders datasets using SQL to uncover trends.**
 
 **SQL Code:**
 [Employees Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Employees%20SQL%20Queries.sql)
