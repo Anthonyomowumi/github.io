@@ -49,7 +49,7 @@ FROM [dbo].[Customer$] AS C
 INNER JOIN [dbo].[Salesman$] AS S
 ON S.Salesman_id = C.Salesman_ID;
 
---4. write a SQL query to find salespeople who received commissions of more than 12 percent from the company. Return Customer Name, customer city, Salesman, commission.  
+--4. write a SQL query to find salespeople who received commissions of more than 12 percent from the company. Return Customer Name, customer city, Salesman, commission. Â 
 SELECT C.Customer_Name,
 		C.City,
 		S.Name as Salesman,
@@ -85,7 +85,7 @@ ON O.[Customer ID] = C.Customer_ID
 INNER JOIN[dbo].[Salesman$] AS S
 ON O.Salesman_id =S.Salesman_id;
 
---7. Write a SQL statement to join the tables salesman, customer and orders so that the same column of each table appears once and only the relational rows are returned. 
+--7. Write a SQL statement to join the tables salesman, customer and orders so that the same column of each table appears once and only the relational rows are returned.Â 
 SELECT S.NAME as Salesman, S.commission,
 		C.Customer_ID, C.Customer_Name, C.City, C.Grade, C.Salesman_ID,
 		O.[Order Number], O.Purchase_Amount, O.[Order Date]
