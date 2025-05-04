@@ -72,7 +72,7 @@ and diversity initiatives. The dashboard enables stakeholders to track trends an
 
 ## Project III
 
-## 🔍 [Data Exploration and Analysis in SQL Using Different Dataset]
+## 🔍 Data Exploration and Analysis in SQL Using Different Dataset
 **In this project, I applied SQL to perform in-depth data exploration and analysis across multiple datasets, including Employees, Football Players, Workplace Safety, and Customer/Sales/Orders.
 My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.**
 
