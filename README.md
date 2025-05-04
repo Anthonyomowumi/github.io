@@ -66,13 +66,31 @@ and promotion readiness—were calculated to assess organizational health. The i
 and diversity initiatives. The dashboard enables stakeholders to track trends and make educated HR decisions that align with organizational objectives.
 
 
-
 ### PowerBI Dashboard Overview:
 ![HRAnalyticsDashboard](HRAnalyticsDashboard.png)
 
 
-
 ## Project III
+
+## 🔍 [Data Exploration and Analysis in SQL Using Different Dataset]
+**In this project, I applied SQL to perform in-depth data exploration and analysis across multiple datasets, including Employees, Football Players, Workplace Safety, and Customer/Sales/Orders.
+My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.**
+
+**Tools Used:** SQL Server, SSMS (SQL Server Management Studio)
+**Skills Applied:** Data wrangling, Data Aggregation, filtering, grouping, subqueries, common table expressions (CTEs), joins, and percentage calculations.
+
+**SQL Code:**
+[Employees Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Employees%20SQL%20Queries.sql)
+
+**SQL Code:**
+[Football Players Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Fottball%20Data%20SQL%20Queries.sql)
+
+**SQL Code:**
+[Workplace Safety Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/WorkSafety%20Data%20SQL%20Queries.sql)
+
+
+
+## Project IV
 
 ## [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
@@ -123,22 +141,6 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 ### Dashboard Overview:
 ![CHOCOLATE](CHOCOLATE.png)
-
-
-## Project IV
-
-## 🔍 [Data Exploration and Analysis in SQL Using Different Dataset]
-**In this project, I applied SQL to perform in-depth data exploration and analysis across multiple datasets, including Employees, Football Players, Workplace Safety, and Customer/Sales/Orders.
-My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.**
-
-**SQL Code:**
-[Employees Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Employees%20SQL%20Queries.sql)
-
-**SQL Code:**
-[Football Players Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Fottball%20Data%20SQL%20Queries.sql)
-
-**SQL Code:**
-[Workplace Safety Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/WorkSafety%20Data%20SQL%20Queries.sql)
 
 
 ## PROJECT V
