@@ -98,6 +98,10 @@ My aim was to uncover actionable insights, identify trends, and support data-dri
 [Workplace Safety Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/WorkSafety%20Data%20SQL%20Queries.sql)
 
 
+**SQL Code:**
+[Customer_Sales_Orders Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Joins%20and%20Subquery%20On%20Customer_Sales_Orders%20Dataset%20.sql)
+
+
 ---
 
 
