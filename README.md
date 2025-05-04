@@ -77,6 +77,7 @@ and diversity initiatives. The dashboard enables stakeholders to track trends an
 My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.**
 
 **Tools Used:** SQL Server, SSMS (SQL Server Management Studio)
+
 **Skills Applied:** Data wrangling, Data Aggregation, filtering, grouping, subqueries, common table expressions (CTEs), joins, and percentage calculations.
 
 **SQL Code:**
