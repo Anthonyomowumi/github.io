@@ -64,7 +64,6 @@ and diversity initiatives. The dashboard enables stakeholders to track trends an
 
 
 
-
 ### PowerBI Dashboard Overview:
 ![HRAnalyticsDashboard](HRAnalyticsDashboard.png)
 
@@ -124,7 +123,15 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 
 
-## PROJECT IV
+## Project IV
+
+🔍 Data Exploration in SQL
+Queried and explored raw datasets using SQL to uncover trends, clean inconsistencies, and prepare data for analysis and visualization.
+
+
+
+
+## PROJECT V
 
 ## [Amazon Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Amazon%20Sales%20Dashboard.xlsx)
 
