@@ -133,9 +133,10 @@ Queried and explored raw datasets using SQL to uncover trends, clean inconsisten
 **SQL Code:**
 [Employees Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Employees%20SQL%20Queries.sql)
 
+**SQL Code:**
 [Football Players Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Fottball%20Data%20SQL%20Queries.sql)
 
-
+**SQL Code:**
 [Workplace Safety Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/WorkSafety%20Data%20SQL%20Queries.sql)
 
 
