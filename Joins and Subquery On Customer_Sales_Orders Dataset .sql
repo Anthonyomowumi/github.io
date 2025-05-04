@@ -1,7 +1,3 @@
-CREATE DATABASE TECHDRIVE_TWO;
-
-USE TECHDRIVE_TWO;
-
 SELECT * FROM [dbo].[Customer$]
 
 SELECT * FROM [dbo].[Salesman$]
@@ -18,7 +14,8 @@ WHERE [Order Number] IS NULL AND Purchase_Amount IS NULL AND [Order Date] IS NUL
 DELETE FROM [dbo].[Salesman$]
 WHERE Salesman_id IS NULL AND Name IS NULL AND city IS NULL AND commission IS NULL; */
 
---QUESTIONS AND ANSWERS
+
+	
 --1. write a SQL query to find the salesperson and customer who reside in the same city. Return Salesman, cust_name and city.
 SELECT S.Name as Salesman, 
 		C.Customer_Name,
@@ -95,10 +92,10 @@ SELECT S.NAME as Salesman, S.commission,
 --OR
 
 
-SELECT *
+/*SELECT *
 FROM [dbo].[Order$] o
 JOIN [dbo].[Customer$] c ON o.[Customer ID] = c.Customer_ID
-JOIN [dbo].[Salesman$] s ON o.Salesman_id = s.Salesman_id;
+JOIN [dbo].[Salesman$] s ON o.Salesman_id = s.Salesman_id;*/
 
 --8. write a SQL query to display the customer name, customer city, grade, salesman, salesman city. The results should be sorted by ascending customer_id.
 SELECT C.Customer_Name, 
@@ -181,3 +178,49 @@ INNER JOIN [dbo].[Order$] AS O ON O.Salesman_id = S.Salesman_id
 WHERE O.Purchase_Amount >= 2000;
 
 --15. For those customers from the existing list who put one or more orders, or which orders have been placed by the customer who is not on the list, create a report containing the customer name, city, order number, order date, and purchase amount
+
+
+-- Orders by customers in the customer list
+SELECT 
+    C.Customer_Name,
+    C.City,
+    O.[Order Number],
+    O.[Order Date],
+    O.Purchase_Amount
+FROM 
+   [dbo].[Customer$] C
+JOIN 
+   [dbo].[Order$]  O ON C.Customer_ID = O.[Customer ID]
+
+UNION
+
+-- Orders by customers NOT in the customer list
+SELECT 
+    NULL AS customer_name,
+    NULL AS city,
+    O.[Order Number],
+    O.[Order Date],
+    O.Purchase_Amount
+FROM 
+	[dbo].[Order$]  O
+LEFT JOIN 
+   [dbo].[Customer$]  C ON O.[Customer ID] = C.Customer_ID
+WHERE 
+    C.Customer_ID IS NULL;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
