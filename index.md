@@ -8,7 +8,8 @@ title: OMOWUMI ANTHONY PORTFOLIO
 ---
 
 
-### 📈 [Pizza Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
+### 📈 [Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
+
 **Tools Used:** 
 
 PowerBI - Visual Cards, Charts(Column and Bar charts), Doughnut chart, Funnel and line graph, slicers and Timeline.
@@ -32,31 +33,43 @@ SQL Data Manipulation Language
 •	DATENAME in SQL for extracting a date part as a string.
 •	Top N in SQL
 
-
 ### Project Description:
-This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, we calculated core KPIs 
-including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. We then visualized trends in Power BI, such as 
+This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, I calculated core KPIs 
+including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. Then visualized trends in Power BI, such as 
 daily and monthly order volumes, sales distribution by pizza category and size, and performance of individual pizza types—highlighting the top 5 best-sellers
-and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholders to monitor performance and support data-driven decision-making.
+and bottom 5 by revenue, quantity, and orders. 
+
+### Some Key Insights
+**•	Optimize Inventory Management:** Focus on high-demand pizzas and reduce stock of underperforming items to minimize waste.
+
+**•	Improve Sales Strategy:** Use order volume trends to plan marketing and staffing during peak and off-peak periods.
+
+**•	Refine Product Offerings:** Analyze category and size performance to prioritize best-selling combinations.
+
+**•	Maximize Revenue and Profitability:** Leverage KPIs like average order value to implement upselling or combo strategies that increase sales.
 
 
-
-**Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.**
-
+Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.
 
 
 ### PowerBI Dashboard Overview:
 ![PizzaDashBoard1](PizzaDashBoard1.png)
 
+
 ---
 
 ### 📈 [Employee Insights Dashboard: Unlocking Workforce Trends with Power BI](https://github.com/Anthonyomowumi/github.io/blob/main/HR%20ANALYTICS%20DASHBOARD.pbix)
 
+**Tools Used:** 
 
-- Designed an interactive HR dashboard in Power BI to visualize workforce insights.
-- Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
-- Integrated DAX FUNCTIONS CALCULATE KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
-- Delivered strategic insights to support HR planning, talent retention, and diversity management.
+PowerBI - DAX functions like SUM, SUMX, COUNTX, FILTER, CARDS, CHARTS
+
+
+## Project Description
+This project entailed developing an interactive HR dashboard in Power BI to reveal essential workforce insights. It examined employee distribution across gender, years of service,
+job levels, eligibility for promotions, and distance from the office. With the help of DAX functions, fundamental HR KPIs—like total headcount, active employees, retrenchment risk, 
+and promotion readiness—were calculated to assess organizational health. The insights facilitated data-informed decision-making in workforce planning, talent retention, succession planning,
+and diversity initiatives. The dashboard enables stakeholders to track trends and make educated HR decisions that align with organizational objectives.
 
 
 ### PowerBI Dashboard Overview:
@@ -67,10 +80,25 @@ and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholder
 ---
 
 ### 🔍 [Data Exploration in SQL]()
-- Queried and explored raw datasets using SQL to uncover trends, clean inconsistencies, and prepare data for analysis and visualization.
+🔍 Data Exploration and Analysis in SQL Using Different Dataset
+**In this project, I applied SQL to perform in-depth data exploration and analysis across multiple datasets, including Employees, Football Players, Workplace Safety, and Customer/Sales/Orders.
+My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.**
+
+**Tools Used:** SQL Server, SSMS (SQL Server Management Studio)
+
+**Skills Applied:** Data wrangling, Data Aggregation, filtering, grouping, subqueries, common table expressions (CTEs), joins, and percentage calculations.
+
+**SQL Code:**
+[Employees Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Employees%20SQL%20Queries.sql)
+
+**SQL Code:**
+[Football Players Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Fottball%20Data%20SQL%20Queries.sql)
+
+**SQL Code:**
+[Workplace Safety Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/WorkSafety%20Data%20SQL%20Queries.sql)
+
 
 ---
-
 
 
 ### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
@@ -78,7 +106,7 @@ and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholder
 **Tools Used:**  
 Excel, Pivot Table, Pivot Charts, Data Cleaning techniques like Removing Duplicates, Find & Replace, Slicer and Timeline.
 
-#### Project Description:
+### Project Description:
 This project focused on analyzing product and sales data for a chocolate company to uncover trends and performance patterns for the year 2022. 
 It was designed to deliver a clear, data-driven overview of key performance indicators, including the effectiveness of sales representatives. 
 The interactive dashboard enables stakeholders to seamlessly track and evaluate the company’s performance across various regions, product categories, 
@@ -104,7 +132,7 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 **•	Product:** Dive deeper into the performance of specific chocolate products.
 
-#### Key Findings:
+### Key Findings:
 **Regional Profitability:** Identified the most profitable regions for chocolate box shipments and highlighted areas where performance can be improved.
 
 **Top-Performing Products:** Highlighted the chocolate products that are generating the most revenue and profit, assisting in inventory and marketing decisions.
@@ -120,9 +148,8 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 **This dashboard is a key decision-making tool for the chocolate company’s leadership, offering clear, data-driven insights to support growth, improve operations, and strengthen market positioning.**
 
 
-#### Dashboard Overview:
+### Dashboard Overview:
 ![CHOCOLATE](CHOCOLATE.png)
-
 
 
 ---
@@ -172,8 +199,14 @@ used—highlighting customer preferences that can inform payment strategy.
 **•	Order Status Monitoring Needed:** Although completed orders (88) were the highest, the number of Pending (85) and cancelled (77) orders was also significant. This suggests 
 a need for closer monitoring of the fulfillment process. The high cancellation rate may point to potential issues with payment methods or order processing delays that warrant further investigation.
 
+**The dashboard facilitates strategic decision-making in areas including inventory planning, regional marketing, customer engagement, payment optimization, and fulfillment process improvement by providing data-driven insights.**
+
 ### Dashboard Overview:
 ![AMAZON](AMAZON.png)
+
+
+
+
   
 ---
 
