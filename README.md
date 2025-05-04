@@ -125,7 +125,7 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 
 ## Project IV
 
-🔍 Data Exploration in SQL
+🔍 [Data Exploration in SQL]()
 Queried and explored raw datasets using SQL to uncover trends, clean inconsistencies, and prepare data for analysis and visualization.
 
 
