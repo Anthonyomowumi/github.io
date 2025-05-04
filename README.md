@@ -27,17 +27,20 @@ SQL Data Manipulation Language
 •	DATENAME in SQL for extracting a date part as a string.
 •	Top N in SQL
 
-
 ### Project Description:
-This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, we calculated core KPIs 
-including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. We then visualized trends in Power BI, such as 
+This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, I calculated core KPIs 
+including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. Then visualized trends in Power BI, such as 
 daily and monthly order volumes, sales distribution by pizza category and size, and performance of individual pizza types—highlighting the top 5 best-sellers
-and bottom 5 by revenue, quantity, and orders. The dashboard enables stakeholders to monitor performance and support data-driven decision-making.
+and bottom 5 by revenue, quantity, and orders. 
 
+### Some Key Insights
+**•	Optimize Inventory Management:** Focus on high-demand pizzas and reduce stock of underperforming items to minimize waste.
+**•	Improve Sales Strategy:** Use order volume trends to plan marketing and staffing during peak and off-peak periods.
+**•	Refine Product Offerings:** Analyze category and size performance to prioritize best-selling combinations.
+**•	Maximize Revenue and Profitability:** Leverage KPIs like average order value to implement upselling or combo strategies that increase sales.
 
 
 Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dashboard.
-
 
 
 ### PowerBI Dashboard Overview:
@@ -50,14 +53,16 @@ Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dash
 
 **Tools Used:** 
 
-PowerBI - Visual Cards, 
+PowerBI - DAX functions like SUM, SUMX, COUNTX, FILTER, CARDS, CHARTS
 
 
 ## Project Summary/Description
- • Designed an interactive HR dashboard in Power BI to visualize workforce insights.
-• Analyzed employee distribution by gender, service years, job levels, promotion eligibility, and proximity to the office.
-• Integrated DAX FUNCTIONS CALCULATE KPIs like total headcount, active staff, retrenchment risk, and promotion readiness.
-• Delivered strategic insights to support HR planning, talent retention, and diversity management.
+This project entailed developing an interactive HR dashboard in Power BI to reveal essential workforce insights. It examined employee distribution across gender, years of service,
+job levels, eligibility for promotions, and distance from the office. With the help of DAX functions, fundamental HR KPIs—like total headcount, active employees, retrenchment risk, 
+and promotion readiness—were calculated to assess organizational health. The insights facilitated data-informed decision-making in workforce planning, talent retention, succession planning,
+and diversity initiatives. The dashboard enables stakeholders to track trends and make educated HR decisions that align with organizational objectives.
+
+
 
 
 
