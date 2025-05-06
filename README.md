@@ -27,7 +27,7 @@ SQL Data Manipulation Language
 •	DATENAME in SQL for extracting a date part as a string.
 •	Top N in SQL
 
-### Project Description:
+## Project Description:
 This project involved analyzing a dataset of over 48,000 pizza sales to uncover key business insights for a pizza company. Using SQL, I calculated core KPIs 
 including total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. Then visualized trends in Power BI, such as 
 daily and monthly order volumes, sales distribution by pizza category and size, and performance of individual pizza types—highlighting the top 5 best-sellers
@@ -93,13 +93,17 @@ My aim was to uncover actionable insights, identify trends, and support data-dri
 [Customer_Sales_Orders Data SQL DML Code](https://github.com/Anthonyomowumi/github.io/blob/main/Joins%20and%20Subquery%20On%20Customer_Sales_Orders%20Dataset%20.sql)
 
 
-##[Using Logistics Regression and Random Forest in Python to classify Sleep Disorder based on Lifestyle Data](https://github.com/Anthonyomowumi/Sleep-Disorder-based-on-Lifestyle_Logistics-regression-and-Random-Forest-ML-Model/blob/main/Sleep%20Disorder%20based%20on%20Lifestyle_Logistics%20regression%20and%20Random%20Forest.ipynb)
+## [Sleep Health Prediction with Logistic Regression & Random Forest](https://github.com/Anthonyomowumi/Sleep-Disorder-based-on-Lifestyle_Logistics-regression-and-Random-Forest-ML-Model)
 
 **This study focuses on identifying the most influential lifestyle features affecting sleep health across various professions. Using Logistic Regression and Random Forest classification models, 
 the goal was to determine key predictors and accurately classify different sleep disorder categories. The analysis was performed in Python using Jupyter Notebook, with libraries such as pandas,
-scikit-learn, and matplotlib for data preprocessing, model development, and evaluation.
+scikit-learn, and matplotlib for data preprocessing, model development, and evaluation.**
 
 **Tools Used:** Jupyter Notebook 
+
+**Python Code:** 
+[Sleep Disorder based on Lifestyle Data Python Code](https://github.com/Anthonyomowumi/Sleep-Disorder-based-on-Lifestyle_Logistics-regression-and-Random-Forest-ML-Model/blob/main/Sleep%20Disorder%20based%20on%20Lifestyle_Logistics%20regression%20and%20Random%20Forest.ipynb)
+
 
 ## Project V
 
@@ -108,7 +112,7 @@ scikit-learn, and matplotlib for data preprocessing, model development, and eval
 **Tools Used:**  
 Excel, Pivot Table, Pivot Charts, Data Cleaning techniques like Removing Duplicates, Find & Replace, Slicer and Timeline.
 
-### Project Description:
+## Project Description:
 This project focused on analyzing product and sales data for a chocolate company to uncover trends and performance patterns for the year 2022. 
 It was designed to deliver a clear, data-driven overview of key performance indicators, including the effectiveness of sales representatives. 
 The interactive dashboard enables stakeholders to seamlessly track and evaluate the company’s performance across various regions, product categories, 
@@ -161,7 +165,7 @@ Additionally, the dashboard also features interactive slicers and a timeline for
 **Tools Used:**  
 Pivot Table, Pivot Charts, Conditional Formatting, Formulas like SUM, COUNT and IF, Sorting and Filtering, Slicer and Timeline.
 
-### Project Description:
+## Project Description:
 This project involved creating an interactive Amazon sales dashboard using Pivot Tables in Excel to analyze data. The dashboard provided a detailed view of key metrics, 
 such as Total Sales by Location, Total Sales by Product, Quantity Sold by Category, Order Status Distribution, Payment Methods, and Customer Insights. 
 The dashboard allows stakeholders to monitor and assess sales performance across various regions and product categories, thereby improving customer targeting, 
