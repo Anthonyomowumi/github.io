@@ -8,7 +8,7 @@ title: OMOWUMI ANTHONY PORTFOLIO
 ---
 
 
-### 📈 [Sales Report Using SQL and PowerBI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
+### 🗂️ [Sales Report Using SQL and Power BI](https://github.com/Anthonyomowumi/Pizza-Sales-Report)
 
 **Tools Used:** 
 
@@ -65,7 +65,7 @@ Technology used: SQL server (T-SQL) For Database Management and PowerBI For Dash
 PowerBI - DAX functions like SUM, SUMX, COUNTX, FILTER, CARDS, CHARTS
 
 
-## Project Description
+### Project Description
 This project entailed developing an interactive HR dashboard in Power BI to reveal essential workforce insights. It examined employee distribution across gender, years of service,
 job levels, eligibility for promotions, and distance from the office. With the help of DAX functions, fundamental HR KPIs—like total headcount, active employees, retrenchment risk, 
 and promotion readiness—were calculated to assess organizational health. The insights facilitated data-informed decision-making in workforce planning, talent retention, succession planning,
@@ -103,7 +103,19 @@ My aim was to uncover actionable insights, identify trends, and support data-dri
 
 
 ---
+### 😴🧠 [Sleep Health Prediction with Logistic Regression & Random Forest](https://github.com/Anthonyomowumi/Sleep-Disorder-based-on-Lifestyle_Logistics-regression-and-Random-Forest-ML-Model)
 
+**This study focuses on identifying the most influential lifestyle features affecting sleep health across various professions. Using Logistic Regression and Random Forest classification models, 
+the goal was to determine key predictors and accurately classify different sleep disorder categories. The analysis was performed in Python using Jupyter Notebook, with libraries such as pandas,
+scikit-learn, and matplotlib for data preprocessing, model development, and evaluation.**
+
+**Tools Used:** Jupyter Notebook 
+
+**Python Code:** 
+[Sleep Disorder based on Lifestyle Data Python Code](https://github.com/Anthonyomowumi/Sleep-Disorder-based-on-Lifestyle_Logistics-regression-and-Random-Forest-ML-Model/blob/main/Sleep%20Disorder%20based%20on%20Lifestyle_Logistics%20regression%20and%20Random%20Forest.ipynb)
+
+
+---
 
 ### 🎯 [Chocolate Sales Dashboard](https://github.com/Anthonyomowumi/github.io/blob/main/Chocolate%20Sales%20Dashboard.xlsx)
 
