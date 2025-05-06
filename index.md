@@ -84,8 +84,8 @@ and diversity initiatives. The dashboard enables stakeholders to track trends an
 **Tools Used:** SQL Server, SSMS (SQL Server Management Studio)
 
 ### Project Description:
-**In this project, I applied SQL to perform in-depth data exploration and analysis across multiple datasets, including Employees, Football Players, Workplace Safety, and Customer/Sales/Orders.
-My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.**
+In this project, I applied SQL to perform in-depth data exploration and analysis across multiple datasets, including Employees, Football Players, Workplace Safety, and Customer/Sales/Orders.
+My aim was to uncover actionable insights, identify trends, and support data-driven decision-making through structured queries and reporting.
 
 
 **Skills Applied:** Data wrangling, Data Aggregation, filtering, grouping, subqueries, common table expressions (CTEs), joins, and percentage calculations.
@@ -112,9 +112,9 @@ My aim was to uncover actionable insights, identify trends, and support data-dri
 **Programming Language Used:** Python
 
 ### Project Description:
-**This study focuses on identifying the most influential lifestyle features affecting sleep health across various professions. Using Logistic Regression and Random Forest classification models, 
+This study focuses on identifying the most influential lifestyle features affecting sleep health across various professions. Using Logistic Regression and Random Forest classification models, 
 the goal was to determine key predictors and accurately classify different sleep disorder categories. The analysis was performed in Python using Jupyter Notebook, with libraries such as pandas,
-scikit-learn, and matplotlib for data preprocessing, model development, and evaluation.**
+scikit-learn, and matplotlib for data preprocessing, model development, and evaluation.
 
  
 **Python Code:** 
